@@ -7,6 +7,7 @@ const HomeUl = styled.ul`
   flex-direction: column;
   gap: 15px;
   margin-top: 15px;
+  width: 50%;
 
   background-color: var(--secondary-color);
   padding: 20px;
